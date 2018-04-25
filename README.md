@@ -2,7 +2,6 @@
 Idea
 
 Nombre Grupo: Geeks
-
 Integrantes
 Sergio Antonio Ochoa Martinez
 Juan carlos ortube lahor
@@ -14,8 +13,8 @@ Reverse Proxy/Web Server: Nginx
 WebAPP: Servida via Node y http-server
 Api Gateway: Via Node y Express.js
 Servicio Users: Via Node y Express.js  
-Servicio Ideas: Via Node y Express.js       
-Servicio Stats: Via Java Spring boot
+Servicio Ideas: Via Java Spring boot   
+Servicio Stats: Via Node y Express.js
 Repositorio Users: MySQL 
 Repositorio Ideas: MongoDB
 Cola: RabbitMQ
